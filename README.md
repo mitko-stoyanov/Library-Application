@@ -35,3 +35,19 @@ Designed with scalability and flexibility in mind, this system can be seamlessly
 ## Screenshots and demo
 
 Video demo: https://www.youtube.com/watch?v=IAvAz0ZPxdg
+
+`User Registration`
+![Image](https://github.com/mitko-stoyanov/Library-Application/blob/main/project%20screenshots/register.png)
+
+`Home Page`
+
+![Image](https://github.com/mitko-stoyanov/Library-Application/blob/main/project%20screenshots/home_page.png)
+
+`Books Catalogue`
+![Image](https://github.com/mitko-stoyanov/Library-Application/blob/main/project%20screenshots/books_catalogue.png)
+
+`Book Details`
+![Image](https://github.com/mitko-stoyanov/Library-Application/blob/main/project%20screenshots/book_preview.png)
+
+`Saved Books`
+![Image](https://github.com/mitko-stoyanov/Library-Application/blob/main/project%20screenshots/saved_books.png)
