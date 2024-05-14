@@ -1,0 +1,125 @@
+h1 {
+    font-size: max(5vw, 30px);
+}
+
+div.top-books {
+    display: flex;
+    justify-content: space-around;
+}
+
+div.title {
+    margin: 50px 0;
+}
+
+div.book-actions a {
+    width: 45%;
+}
+
+#quantity {
+    width: 30%;
+}
+
+div.item-div {
+    height: 30vh;
+}
+
+/* div#book-card {
+    height: 30vh;
+} */
+
+/* div.card-body {
+    position: relative;
+}
+
+div.book-actions a {
+    position: absolute;
+    bottom: 20px;
+    right: 50;
+} */
+
+
+form#saved-form {
+    width: 20%;
+    text-align: center;
+}
+
+.cover-image-edit {
+    width: 100px;
+    height: 100px;
+}
+
+input.book-index {
+    width: 40%;
+}
+
+div.book-container {
+    position: relative;
+}
+
+div.book-actions {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+.view-book-button {
+    width: 20%;
+}
+
+
+.index-book {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.btn-index {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translate(-50%, 0);
+}
+
+.author-span {
+    color: rgb(177, 175, 175);
+}
+
+a.see-more {
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.book-index {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.save-book-buton {
+    border-radius: 0;
+}
+
+form.g-form {
+    max-height: 55px;
+}
+
+.see-btn {
+    width: 100px;
+    border: none;
+}
+
+#inscompSelected {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.remove-btn-usr {
+    margin-left: 10px;
+    padding: 2px 6px;
+}
+
+.head-table {
+    cursor: pointer;
+    text-decoration: underline;
+}
